@@ -1,6 +1,7 @@
 # ADS – Algoritmos e Pensamento Computacional em Python
 
 Repositório com exercícios de lógica e algoritmos desenvolvidos em Python durante os estudos em Análise e Desenvolvimento de Sistemas.
+Atividade A - Rogério
 
 Cada pasta contém um exercício independente, com:
 - Código-fonte em Python
